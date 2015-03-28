@@ -38,11 +38,11 @@ The following scenarios, which can be run with this code:
 
 ### Contribution guidelines ###
 
-This code is build on the Q-Learning example code by Kardi Teknomo, which can be found at [http://people.revoledu.com/kardi)](http://people.revoledu.com/kardi))/
+This code is build on the Q-Learning example code by Kardi Teknomo, which can be found at [http://people.revoledu.com/kardi)](http://people.revoledu.com/kardi)
 
 ### Who do I talk to? ###
 
 If there are any questions regarding the code please contact either of the two people below:
 
-Ioannis Makris - [ioannis@makris.com](ioannis@makris.com)
+Ioannis Makris - [ioannis@makris.com](ioannis@makris.com) \n
 Andrew Chalikiopoulos - [andreas.chalikio@hotmail.com](andreas.chalikio@hotmail.com)
