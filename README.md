@@ -44,5 +44,6 @@ This code is build on the Q-Learning example code by Kardi Teknomo, which can be
 
 If there are any questions regarding the code please contact either of the two people below:
 
-Ioannis Makris - [ioannis@makris.com](ioannis@makris.com)<br> 
+Ioannis Makris - [ioannis@makris.com](ioannis@makris.com)
+ 
 Andrew Chalikiopoulos - [andreas.chalikio@hotmail.com](andreas.chalikio@hotmail.com)
