@@ -86,8 +86,8 @@ end
 %B(4,:) = (B(3,:)./B(2,:));
 B(4,:) = rdivide(B(3,:),B(2,:));
 
-%episodes vs cumReward taken averaged against steps taken
-%stairs(B(1,1 : 5 : end),B(4,1 : 5 : end));
+%episodes vs cumReward
+%plot(B(1,1 : 5 : end),B(3,1 : 5 : end));
 
 %create a plot of episodes vs steps taken and episodes vs cumReward taken averaged against steps taken
 figure % new figure
@@ -98,9 +98,9 @@ xlabel('Episodes')
 ylabel(combinedGraph(1),'Steps') % left y-axis
 ylabel(combinedGraph(2),'Cumulative Reward/Steps') % right y-axis
 
-% create a plot of episodes vs cumReward
+% create a plot of episodes vs cumReward/steps
 figure
-plot(B(1,1 : 5 : end),B(3,1 : 5 : end));
+plot(B(1,1 : 5 : end),B(4,1 : 5 : end));
 title('Cumulative Rewards vs Episodes')
 xlabel('Episode')
 ylabel('Cumulative Reward')
