@@ -9,22 +9,20 @@ This Q-Learning code for MATLAB has been written by Ioannis Makris and Andrew Ch
 
 ### How do I get set up? ###
 
-This repository contains 9 files. These are: 
+This repository contains 8 files. These are: 
 
 1. RandomPermutation.m
 2. ReinforcementLearning_RandomPol.m
-3. ReinforcementLearning.m
-4. ReinforcementLearningGreedy.m
-5. ReinforcementLearningUpdateR.m
-6. RewardMatrix25.m
-7. RewardMatrix100.m
-8. RewardMatrixNoPunishment.csv
-9. RewardMatrixPunishment.csv
+3. ReinforcementLearningGreedy.m
+4. ReinforcementLearningUpdateR.m
+5. RewardMatrix25.m
+6. RewardMatrix100.m
+7. RewardMatrixNoPunishment.csv
+8. RewardMatrixPunishment.csv
 
 The following files were used for testing and should not be used:
 
-1. ReinforcementLearning.m
-2. RewardMatrix25.m
+1. RewardMatrix25.m
 
 The following scenarios, which can be run with this code:
 
